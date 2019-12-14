@@ -56,12 +56,13 @@ Although we have **2,160** unique products, but to simplify the process, we limi
 
 # Compelling Visualizations and Story-telling
 
-1) First compelling visualization that will be helpful is to get **TOP 20 MOVIE TAGS**, as shown in the graph below. It will give us information about the dominant style of movies in the given movie datasets.
+### 1) Product Demand Over Time
+First compelling visualization that will be helpful is to get **product demand trend over the time**. It will give us information about the product demand over different time periods.
 
 
-![](figs/fig4u.png)
+![](figs/fig2u.png)
 
-
+**Inference from Visualization:** Now, we again plot and this time it looks more real world and practical for all date index values, as shown in the above graph. From the above graph, we can see that the **Product # 1359 's demand over time follows almost the same consistent pattern over each year with some spikes occuring at the end months of each year. This looks reasonable as end of year is the shoppping season, thus, justifying these spikes**.
 
 # Conclusion
 
