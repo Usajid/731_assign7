@@ -16,24 +16,18 @@ Traveling the world on a mission to discover new data
 
 1. Set up a data science project structure in a new git repository in your GitHub account
 
-2. Install Jupyter notebook prerequisites (Anaconda, Python, etc.)
+2. Download any of the data sets from previous projects
 
-3. Select an industry
+3. Load the data set into panda data frames
 
-4. Select two to three public data sets from that industry
+4. Formulate one or two ideas on how storytelling and visualization would help describe the data set and establish additional value
 
-5. Load the data sets into panda data frames following the 10 minutes to pandas guide
+5. Build three or more compelling visualizations
 
-6. Formulate one or two ideas on how the data sets could be combined to establish
-additional value using exploratory data analysis
+6. Document your process and results
 
-7. Transform the data sets into a single data set while following data preparation processes
-to clean and transform features (use pandas documentation for help)
+7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
-8. Document your process and results
-
-9. Commit your notebook, source code, visualizations and other supporting files to the git
-repository in GitHub
 
 ### Datasets:
 
