@@ -6,9 +6,9 @@ If you are interested in only looking at notebook, please access the notebook in
 
 /notebooks: Contains the notebook of this assignment.
 
-/data: Contains the data csv files (movies.csv, ratings.csv, tags.csv)
+/data: Contains the data csv file (historical_product_demand.csv)
 
-Also, some content of this assignment and my assignment # 03 (Weekend Movie Trip) notebook will be similar, as I have used the same datasets for both assignments.
+Also, some content of this assignment and my assignment # 05 (World Wide Products Inc.) notebook will be similar, as I have used the same datasets for both assignments.
 
 ### Objective:
 
@@ -31,21 +31,29 @@ Great stories and great visual effects
 
 ### Datasets:
 
-For this assignment, I took three datasets from the MovieLens Website (https://grouplens.org/datasets/movielens/), namely **Movies, Ratings, and Tags datasets**. First, we do exploratory analysis on each dataset separately, followed by cleaning, merging (those datasets into one), and **visualization** process (Data csv files are in /data/ directory of this repository).
+I used the given Forecasts for Product Demand dataset (https://www.kaggle.com/felixzhao/productdemandforecasting) for this Demand Forecasting modeling assignment. (Data csv file is in /data/historical_product_demand.csv).
 
 ### Process:
 
 <ul>
-<li>First I loaded and inspected the three data csv files (movies.csv, ratings.csv, tags.csv), so I can explore and combine MOVIES, RATINGS, and TAGS information from them for compelling data visualizations. (Please see the /notebooks/visualizations.ipynb for more details)</li>
-<li>Then, we merge the information from these data frames into a new data frame that contains MOVIES, THEIR RATINGS AND TAGS VECTORS.</li>
- <li>Once we have individiual Dataframes (Movies, Ratings, Tags) and the combined/merged movie dataframe ready, we then draw interesting visualizations that can prove really helpful in getting valuable insights.</li>
+<li>First, I loaded the given csv file into the Pandas Dataframe. (Please see the /notebooks/visualizations.ipynb for more details)</li>
+<li>Then, I did feature engineering and cleaning process.</li>
+ <li> Finally, we drew and analyzed four time-based compelling visualizations to get some insights about the given dataset products, and inferred some key facts from these graphs. Please refer to notebook for more details.These four analysis are also given below and are Weekly based, Monthly based and Years Weeks based trends.</li>
  </ul>
 
 *The process and results are detailed as follows, as well as in /notebooks/visualizations.ipynb notebook.*
 
 ### Discussion and Results:
 
-First, we do exploratory analysis on each dataset separately, followed by cleaning and merging (those datasets into one) process. Then, we draw some compelling visualization from three individual dataframes (Movies, Ratings, Tags) as well as from combined/merged dataframe.
+First, we do feature engineering and cleaning process.
+
+The given dataset, once loaded into the dataframe, was as follows:
+
+
+
+Although we have **2,160** unique products, but to simplify the process, we limit the scope of our visualization process by focusing on one **most in-demand top** product. As from our analysis given in the notebook, we observed that the **product Product_1359 is the top product**, so we focus on it during this project and draw four compelling visualizations and infer some valuable insights about this product. 
+
+
 
 **Movies Dataset Analysis:**
 
