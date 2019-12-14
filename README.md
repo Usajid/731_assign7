@@ -36,9 +36,9 @@ For this assignment, I took three datasets from the MovieLens Website (https://g
 ### Process:
 
 <ul>
-<li>First I loaded and inspected the three data csv files (movies.csv, ratings.csv, tags.csv), so I can explore and combine MOVIES, RATINGS, and TAGS information from them for data exploration. (Please see the /notebooks/data_explorer.ipynb for more details)</li>
+<li>First I loaded and inspected the three data csv files (movies.csv, ratings.csv, tags.csv), so I can explore and combine MOVIES, RATINGS, and TAGS information from them for compelling data visualizations. (Please see the /notebooks/visualizations.ipynb for more details)</li>
 <li>Then, we merge the information from these data frames into a new data frame that contains MOVIES, THEIR RATINGS AND TAGS VECTORS.</li>
- <li>Once we have individiual Dataframes and the combined movie dataframe ready, we then draw interesting visualizations that can prove really helpful in getting valuable insights.</li>
+ <li>Once we have individiual Dataframes (Movies, Ratings, Tags) and the combined/merged movie dataframe ready, we then draw interesting visualizations that can prove really helpful in getting valuable insights.</li>
  </ul>
 
 *The process and results are detailed as follows, as well as in /notebooks/visualizations.ipynb notebook.*
