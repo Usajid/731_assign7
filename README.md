@@ -106,7 +106,7 @@ Consequently, number of row are reduced from *1,02,695* to just *3,476* rows, bu
 
 # Conclusion
 
-**Story telling and the Data visualization** are the main and vital components that can be considered as the main objective of any data science based explorative analysis. In this project, I learnt about few ways to yield compelling visualizations that can be helpful in telling interesting and valuable story about the data. First e cleaned the datasets, followed by merging them into a single common dataframe. Then, using individual dataframes (Movies, Ratings, Tags) as well as combined/merged dataframe, we obtained several compelling visuaizations to tell story about the given datasets.
+**Story telling and the Data visualization** are the main and vital components that can be considered as the main objective of any data science based explorative analysis. In this project, I learnt about few ways to yield compelling visualizations that can be helpful in telling interesting and valuable story about the data. First e cleaned the datasets, followed by merging them into a single common dataframe. Then, using individual dataframes (Movies, Ratings, Tags) as well as combined/merged dataframe, we **obtained several compelling visuaizations to tell valuable story about the given datasets**.
 
 
 # References
