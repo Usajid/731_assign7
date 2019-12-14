@@ -51,7 +51,7 @@ The given dataset, once loaded into the dataframe, was as follows:
 
 ![](figs/fig0u.png)
 
-Although we have **2,160** unique products, but to simplify the process, we limit the scope of our visualization process by focusing on one **most in-demand top** product. As from our analysis given in the notebook, we observed that the **product Product_1359 is the top product**, so we focus on it during this project and draw four compelling visualizations and infer some valuable insights about this product. 
+Although we have **2,160** unique products, but to simplify the process, we limit the scope of our visualization process by focusing on one **most in-demand top** product. As from our analysis given in the notebook, we observed that the **product Product_1359 is the top product**, so we focus on it during this project and draw **four compelling visualizations** and infer some valuable and key insights from them about this product. 
 
 
 # Compelling Visualizations and Story-telling
@@ -70,4 +70,4 @@ Although we have **2,160** unique products, but to simplify the process, we limi
 
 # References
 
-1) https://github.com/usajid/731_assign3
+1) https://github.com/Usajid/731_assign5
