@@ -12,7 +12,7 @@ Also, some content of this assignment and my assignment # 03 (Weekend Movie Trip
 
 ### Objective:
 
-Traveling the world on a mission to discover new data
+Great stories and great visual effects
 
 1. Set up a data science project structure in a new git repository in your GitHub account
 
