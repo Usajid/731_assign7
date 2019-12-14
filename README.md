@@ -1,4 +1,4 @@
-# EECS 731 The Oscars (Assignment # 07)
+# EECS 731: The Oscars (Assignment # 07)
 
 
 ### Quick Note:
