@@ -66,8 +66,6 @@ As seen above, **610** users participated in movie ratings for **9724** unique m
 ![](figs/fig3u.png)
 
 
-![](figs/fig4u.png)
-
 The tag dataset csv file contains tags that are given by the users to different movies. As shown above, **1572 (out of total 9724)** movies have been given total **1460** tags or keywords by **58 (out of total 610)** unique and different users. The tag feature assigned to different movies can be used for **drawing compelling visualizations**.
 
 ### Datasets Cleaning and Merging Process
