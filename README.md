@@ -31,7 +31,7 @@ Great stories and great visual effects
 
 ### Datasets:
 
-For this assignment, I took three datasets from the MovieLens Website (https://grouplens.org/datasets/movielens/), namely **Movies, Ratings, and Tags datasets**. First, we do exploratory analysis on each dataset separately, followed by cleaning and merging (those datasets into one) process (Data csv files are in /data/ directory of this repository).
+For this assignment, I took three datasets from the MovieLens Website (https://grouplens.org/datasets/movielens/), namely **Movies, Ratings, and Tags datasets**. First, we do exploratory analysis on each dataset separately, followed by cleaning, merging (those datasets into one), and visualization process (Data csv files are in /data/ directory of this repository).
 
 ### Process:
 
