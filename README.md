@@ -49,59 +49,12 @@ First, we do feature engineering and cleaning process.
 
 The given dataset, once loaded into the dataframe, was as follows:
 
-
+![](figs/fig0u.png)
 
 Although we have **2,160** unique products, but to simplify the process, we limit the scope of our visualization process by focusing on one **most in-demand top** product. As from our analysis given in the notebook, we observed that the **product Product_1359 is the top product**, so we focus on it during this project and draw four compelling visualizations and infer some valuable insights about this product. 
 
 
-
-**Movies Dataset Analysis:**
-
-![](figs/fig1u.png)
-
-As shown above, the movies csv file contains total **9724** unique movies. Consequenly, from the table, it is evident that it provides movies names and their **genre**. We can use the **genre** and **title** features for data modeling or visualizaing great insights.
-
-**Ratings Dataset Analysis**
-
-![](figs/fig2u.png)
-
-
-As seen above, **610** users participated in movie ratings for **9724** unique movies. This dataset also has timestamp that may be useful in time based analysis or modeling. But for this assignment, for merging process later, I dropped this feature being not useful (as part of **feautre engineering/cleaning process**).
-
-
-**Tags Dataset Analysis**
-
-![](figs/fig3u.png)
-
-
-The tag dataset csv file contains tags that are given by the users to different movies. As shown above, **1572 (out of total 9724)** movies have been given total **1460** tags or keywords by **58 (out of total 610)** unique and different users. The tag feature assigned to different movies can be used for **drawing compelling visualizations**.
-
-### Datasets Cleaning and Merging Process
-
-Next, we are merging different datapoints into single dataset that can be used for further process (e.g. Data Modeling for classification, clustering or regression purpose).
-
-First, we **merge** *movies* and *ratings* data frames based on common *movieId* feature, followed by merging the resultant table with tags table based on *movieId* and *userId* featues.
-
-
-![](figs/fig5u.png)
-
-As we can see that there are some NaN values in the resultant table. So, we **drop** rows with any NaN value.
-
-![](figs/fig6u.png)
-
-
-This final dataframe also has some interesting insights, as follows:
-
-**Unique Users :  54**
-
-**Unique Movies :  1464**
-
-**Unique Tags :  1424**
-
-
-Consequently, number of row are reduced from *1,02,695* to just *3,476* rows, but more cleaner and ready to be used by data visualization process.
-
-# Compelling Visualizations using Individual Dataframes and Merged/Combined Dataframe
+# Compelling Visualizations and Story-telling
 
 1) First compelling visualization that will be helpful is to get **TOP 20 MOVIE TAGS**, as shown in the graph below. It will give us information about the dominant style of movies in the given movie datasets.
 
