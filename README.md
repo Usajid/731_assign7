@@ -95,7 +95,7 @@ This final dataframe also has some interesting insights, as follows:
 
 Consequently, number of row are reduced from *1,02,695* to just *3,476* rows, but more cleaner and ready to be used by data visualization process.
 
-# Compelling Visualizations using
+# Compelling Visualizations using Individual Dataframes and Merged/Combined Dataframe
 
 1) First compelling visualization that will be helpful is to get **TOP 20 MOVIE TAGS**, as shown in the graph below. It will give us information about the dominant style of movies in the given movie datasets.
 
