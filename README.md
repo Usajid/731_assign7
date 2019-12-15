@@ -62,7 +62,7 @@ First compelling visualization that will be helpful is to get **product demand t
 
 ![](figs/fig2u.png)
 
-**Inference from Visualization:** Now, we again plot and this time it looks more real world and practical for all date index values, as shown in the above graph. From the above graph, we can see that the **Product # 1359 's demand over time follows almost the same consistent pattern over each year with some spikes occuring at the end months of each year. This looks reasonable as end of year is the shoppping season, thus, justifying these spikes**.
+**Inference from Visualization:** From the above graph, we can see that the **Product # 1359 's demand over time follows almost the same consistent pattern over each year with some spikes occuring at the end months of each year. This looks reasonable as end of year is the shoppping season, thus, justifying these spikes**.
 
 
 ### 2) Time Based Analysis on Demand Trend # 01 : Day-of-Week
